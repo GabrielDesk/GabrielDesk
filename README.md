@@ -47,22 +47,6 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 </ul>
 
-# Tools:
-
-<ul> 
-    <li>VsCode;</li>
-    <li>Plataform.io;</li>
-    <li>DBeaver;</li>
-    <li>AzureDevOps;</li>
-    <li>Figma;</li>
-    <li>GitHub Desktop;</li>
-    <li>Visual Studio;</li>
-    <li>Insomnia;</li>
-    <li>Flipper;</li>
-    <li>Sublime;</li>
-    <br/>
-</ul>
-
 # Projects
 
 ## Picazo robot

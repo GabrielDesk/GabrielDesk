@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" width="100%" height="200" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" width="100%" />
 
 Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen interest in **React Native, ReactJs,NodeJs, .NET Core and many others**. Here's a little about me:
 
@@ -8,7 +8,7 @@ Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen inte
 
 I'm a **full-stack developer**, specializing in create **websites, mobile apps, apis and databses**. I thrive on challenges designs code, 3d Models, robots, inovation, and I'm always eager to learn new technologies and explore innovative solutions.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDesk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDesk&show_icons=true&theme=dark)
 
 # My Skills
 

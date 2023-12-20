@@ -6,10 +6,9 @@
     padding: 5%;
 }
 </style>
-
 # Welcome to My GitHub Profile!
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" width="100%" height="150" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" width="100%" height="200" />
 
 Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen interest in **React Native, ReactJs,NodeJs, .NET Core and many others**. Here's a little about me:
 

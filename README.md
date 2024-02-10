@@ -87,6 +87,11 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 <ul>
     <li> <b>LinkedIn:</b> https://www.linkedin.com/in/gabriel-rodrigues-301130279/overlay/about-this-profile/
     </li>
+    <li> <b>Email:</b> 
+g.rodriguesalves72@gmail.com
+    </li>
+    <li> <b>Whatsapp:</b> +55(12) 99624-9640
+    </li>
 </ul>
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate on something exciting! 😊✨

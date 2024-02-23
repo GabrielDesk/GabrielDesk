@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen interest in **React Native, ReactJs,NodeJs, .NET Core and many others**. Here's a little about me:
+Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen interest in **React Native, ReactJs, NodeJs, .NET Core and many others**. Here's a little about me:
 
 ## About Me
 

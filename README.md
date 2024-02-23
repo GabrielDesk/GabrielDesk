@@ -6,7 +6,6 @@ Hello there! 👋 I'm Gabriel Rodrigues, a passionate developer with a keen inte
 
 I'm a **full-stack developer**, specializing in create **websites, mobile apps, apis and databses**. I thrive on challenges designs code, 3d Models, robots, inovation, and I'm always eager to learn new technologies and explore innovative solutions.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDesk&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDesk&layout=compact)
 
 # My Skills

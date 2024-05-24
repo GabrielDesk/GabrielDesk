@@ -84,7 +84,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 # Connect with Me
 
 <ul>
-    <li> <b>LinkedIn:</b> https://www.linkedin.com/in/gabriel-rodrigues-301130279/overlay/about-this-profile/
+    <li> <b>LinkedIn:</b> https://www.linkedin.com/in/gabriel-rodrigues-developer/
     </li>
     <li> <b>Email:</b> 
 g.rodriguesalves72@gmail.com

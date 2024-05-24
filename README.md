@@ -54,7 +54,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 <a>
 <img src="https://i.imgur.com/APBsjs7.jpg" width="45%" alt="PainterBot Home Screen">
-<img src="https://i.imgur.com/RU6gkWh.jpeg" width="45%" height="456" alt="Robot Prototype">
+<img src="https://i.imgur.com/RU6gkWh.jpeg" width="40%" height="486" alt="Robot Prototype">
 </a>
 
 ## Sneaker Shore

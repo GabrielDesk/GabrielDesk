@@ -62,7 +62,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/Picazo-App)
 
 <a>
-<img src="https://i.imgur.com/APBsjs7.jpg" width="45%" alt="PainterBot Home Screen">
+<img src="https://i.imgur.com/APBsjs7.jpg" width="40%" alt="PainterBot Home Screen">
 <img src="https://i.imgur.com/RU6gkWh.jpeg" width="40%" height="486" alt="Robot Prototype">
 </a>
 

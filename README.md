@@ -48,6 +48,15 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 # Projects
 
+## FitFlex App
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/FlexiFit_app)
+
+<a>
+<img src="https://i.imgur.com/9ypkmVy.png" width="100%" alt="FitFlex preview">
+</a>
+
+
 ## Picazo robot
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/Picazo-App)

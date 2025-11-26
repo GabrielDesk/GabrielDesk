@@ -80,7 +80,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 ## Web biodigestor
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/webBiodigestor)
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/webBiodigestor](https://imgur.com/a/XvoLWjS))
 
 **Link:** https://webbiodigestor.vercel.app/
 

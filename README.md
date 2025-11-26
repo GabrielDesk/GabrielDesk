@@ -63,7 +63,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 <a>
 <img src="https://i.imgur.com/APBsjs7.jpg" width="40%" alt="PainterBot Home Screen">
-<img src="https://i.imgur.com/RU6gkWh.jpeg" width="40%" height="486" alt="Robot Prototype">
+<img src="https://media.licdn.com/dms/image/v2/D4E2DAQFhl7I67GIwgw/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1700613102279?e=1764788400&v=beta&t=23UTW_ePx5-zJ2dq-1FJmwBh_rbiknh_wDfJv7vzz34" width="40%" height="486" alt="Robot Prototype">
 </a>
 
 ## Sneaker Shore
@@ -73,7 +73,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 **Link:** https://sneaker-shore.vercel.app/
 
 <a>
-  <img src="https://i.imgur.com/urau83p.png" width="100%" alt="Sneaker shore Home Screen">
+  <img src="https://i.imgur.com/ZZ2DdWC.png" width="100%" alt="Sneaker shore Home Screen">
 </a>
 
 <br/>

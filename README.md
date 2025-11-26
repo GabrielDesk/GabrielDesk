@@ -53,7 +53,7 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/FlexiFit_app)
 
 <a>
-<img src="https://i.imgur.com/9ypkmVy.png" width="100%" alt="FitFlex preview">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGUQDK_RlrgAw/feedshare-shrink_800/feedshare-shrink_800/0/1721962874768?e=1766016000&v=beta&t=YPFpXTHbEi9Ex1gdpblPK3Ydes6zXeJVMJVfeIfyPgI" width="100%" alt="FitFlex preview">
 </a>
 
 

@@ -80,12 +80,12 @@ I'm a **full-stack developer**, specializing in create **websites, mobile apps, 
 
 ## Web biodigestor
 
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/webBiodigestor](https://imgur.com/a/XvoLWjS))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielDesk/webBiodigestor)
 
 **Link:** https://webbiodigestor.vercel.app/
 
 <a>
-  <img src="https://i.imgur.com/SANoBP7.png" width="100%" alt="Sneaker shore Home Screen">
+  <img src="https://i.imgur.com/ROf8aok.png" width="100%" alt="Web Bio Digestor">
 </a>
 
 <br/>
